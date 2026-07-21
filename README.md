@@ -53,6 +53,13 @@ Each app is a fully working product you can launch under your own name this week
 
 ---
 
+## Related Projects
+
+- [ai-creator-academy](https://github.com/Anil-matcha/ai-creator-academy) — free curriculum teaching creators, freelancers, and agencies how to monetize generative AI — the "how to sell" companion to these "what to clone" apps
+- [Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) — Free open-source studio for 200+ AI image & video models
+
+---
+
 ## 💰 This Is a Money-Making Repo
 
 Every app here is a **complete, sellable SaaS product** — not a demo, not a UI kit. Fork one, put your logo on it, and you have a live product that can take payments today.
